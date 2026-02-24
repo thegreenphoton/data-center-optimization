@@ -27,7 +27,7 @@ geojson_files/
 
 
 # notebooks
-*.ipynb
+WUE.ipynb
 
 # figures
 figures/
